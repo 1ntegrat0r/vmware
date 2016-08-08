@@ -1,6 +1,4 @@
 #!/usr/bin/env python
-# William lam
-# www.virtuallyghetto.com
 
 """
 vSphere SDK for Python program for creating tiny VMs (1vCPU/128MB)
